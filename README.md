@@ -1,4 +1,3 @@
-<br>
 <h1 align="center">Rumo</h1>
 
 <p align="center">
