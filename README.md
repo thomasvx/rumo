@@ -5,7 +5,7 @@
 </p>
 <br>
 
-[Download _Rumo_.](https://github.com/thomasvx/rumo/releases/download/v261111/rumo_setup.exe)
+[Download _Rumo_.](https://github.com/thomasvx/rumo/releases/download/v261121/rumo_setup.exe)
 
 * Start ter plekke een timer.
 * Plan timers vooraf in.
